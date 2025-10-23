@@ -69,7 +69,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-5xl font-bold text-yellow-600 mb-4">About Me</h2>
           <p className="text-base lg:text-xl">
-            I am a third year ECE student and a web development Enthusiast with a passion for creating
+            I am a BTech ECE graduate and a development Enthusiast with a passion for creating
             interactive and responsive web applications. I have experience
             working with Python, c, HTML, CSS, and Git. 
             Apart from the software skills, I am having experience working with FPGA, Verilog, embedded C, Vivado.
@@ -114,5 +114,6 @@ const AboutSection = () => {
     </section>
   );
 };
+
 
 export default AboutSection;
