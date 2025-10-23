@@ -39,7 +39,7 @@ const HeroSection = () => {
 
           </h1>
           <p className="text-black text-lg lg:text-xl mb-4 text-start text-balance">
-            I am a BTech ECE student at Amrita Vishwa Vidyapeetham, Amritapuri Campus. 
+            I am a BTech ECE Graduate from Amrita Vishwa Vidyapeetham, Amritapuri Campus. 
             I am passionate about learning new things and utilizing my knowledge and skills for a better world.
           </p>
           <div className="flex space-x-4">
@@ -64,4 +64,5 @@ const HeroSection = () => {
 }
 
 export default HeroSection
+
 
