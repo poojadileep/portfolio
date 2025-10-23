@@ -24,7 +24,7 @@ const HeroSection = () => {
         1000, 
         'a Software Enthusiast',
         1000,
-        'a Student',
+        'a Product Management Enthusiast ',
         1000,
         'a Dancer',
         1000
@@ -64,5 +64,6 @@ const HeroSection = () => {
 }
 
 export default HeroSection
+
 
 
